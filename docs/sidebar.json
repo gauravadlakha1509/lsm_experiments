@@ -1,6 +1,7 @@
 {
   "lsm_experiments": {
     "Overview": "/",
-    "module name here": "core.html"
+    "module name here": "core.html",
+    "Title": "experiment_fastai.html"
   }
 }
